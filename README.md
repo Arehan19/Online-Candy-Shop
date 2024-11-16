@@ -26,5 +26,5 @@ CandyShop/
 
 **Installation:**
 1- Clone the repository
-   git clone https://github.com/your-username/CandyShop.git
-
+   git clone https://github.com/Arehan19/CandyShop.git
+2- Open the Candyshop.html file in any web browser.
