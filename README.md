@@ -1,7 +1,6 @@
 # CandyShop
 CandyShop is a fun and interactive web application that showcases different types of candies, including chocolates, jellies, lollipops, and toffees. It's designed to provide users with a sweet browsing experience through a colorful and engaging interface.
 
----
 
 # Features
 - **Interactive Web Pages:** Includes separate pages for chocolates, jellies, lollipops, and toffees.
